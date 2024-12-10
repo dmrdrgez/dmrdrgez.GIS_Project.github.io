@@ -16,5 +16,5 @@
 - Code provides options and information to the user in order to facilitate input.
 - Produces easy-to-read figures which can be integrated into anaylsis projects.
 
-## Examples of Statistical Plots
-![image](https://github.com/user-attachments/assets/f6a15d25-1490-4e0a-bac4-6608e9a1d873)
+## Sample Statistical Plots
+
