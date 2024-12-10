@@ -16,5 +16,11 @@
 - Code provides options and information to the user in order to facilitate input.
 - Produces easy-to-read figures which can be integrated into anaylsis projects.
 
+## Code Snippets
+
+https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/8bc54f988617c1da4557671fa9eaec08ce7b9369/Plotting%20Statistical%20Figures.ipynb#L119-L138
+
 ## Sample Statistical Plots
+
+
 
