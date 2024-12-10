@@ -31,5 +31,15 @@ https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d19
 
 ## Sample Statistical Plots
 
+![image](https://github.com/user-attachments/assets/14cbc0c1-d643-42b8-bbdb-3db136dbd215)
+
+![image](https://github.com/user-attachments/assets/3643e859-3a85-4d80-a338-120af1af93a5)
+
+![image](https://github.com/user-attachments/assets/0ef42272-85f1-4134-a752-f87ed0dfc87f)
+
+![image](https://github.com/user-attachments/assets/88090c85-4d9a-4745-a013-5b8f9b986b74)
+
+
+
 
 
