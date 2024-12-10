@@ -29,6 +29,9 @@ https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d19
 
 https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d1981100e0f9d314bfdf46f0bb7/Plotting%20Statistical%20Figures%20Final.py#L437-L481
 
+### Link to Full Repository
+https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io
+
 ## Sample Statistical Plots
 
 ![image](https://github.com/user-attachments/assets/14cbc0c1-d643-42b8-bbdb-3db136dbd215)
