@@ -1,5 +1,8 @@
 # Adv. GIS Project: Creating Statistical Figures Based on User Input
 
+![image](https://github.com/user-attachments/assets/42c62161-5bc3-4d02-b135-51af54ba605f)
+
+
 ## About the Project
 - This project creates statistical plots based on information provided by the user with the use of Geopandas open source and the Matplotlib library. The script is designed for users working with geodatabases and shapefiles in GIS who may want to complement their spatial anaylsis with other statistical visualizations.
 
