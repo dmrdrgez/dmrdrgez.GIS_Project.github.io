@@ -18,7 +18,16 @@
 
 ## Code Snippets
 
-https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/8bc54f988617c1da4557671fa9eaec08ce7b9369/Plotting%20Statistical%20Figures.ipynb#L119-L138
+**Choosing Plot Type and Style**
+https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d1981100e0f9d314bfdf46f0bb7/Plotting%20Statistical%20Figures%20Final.py#L88-L107
+
+**Creating a Histogram**
+
+https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d1981100e0f9d314bfdf46f0bb7/Plotting%20Statistical%20Figures%20Final.py#L359-L431
+
+**Creating a Box Plot**
+
+https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io/blob/2e2b9008e5f49d1981100e0f9d314bfdf46f0bb7/Plotting%20Statistical%20Figures%20Final.py#L437-L481
 
 ## Sample Statistical Plots
 
