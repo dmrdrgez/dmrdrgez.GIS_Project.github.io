@@ -19,6 +19,8 @@
 - Code provides options and information to the user in order to facilitate input.
 - Produces easy-to-read figures which can be integrated into anaylsis projects.
 
+## [Link to Full Repository](https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io)
+
 ## Code Snippets
 
 **Choosing Plot Type and Style**
@@ -182,15 +184,21 @@ if input_figure == 'Box Plot':
     plt.show()
 ```
 
-## [Link to Full Repository](https://github.com/dmrdrgez/dmrdrgez.GIS_Project.github.io)
-
 ## Sample Statistical Plots
+
+**Box Plot**
 
 ![image](https://github.com/user-attachments/assets/14cbc0c1-d643-42b8-bbdb-3db136dbd215)
 
+**Bar Graph**
+
 ![image](https://github.com/user-attachments/assets/3643e859-3a85-4d80-a338-120af1af93a5)
 
+**Scatter Plot**
+
 ![image](https://github.com/user-attachments/assets/0ef42272-85f1-4134-a752-f87ed0dfc87f)
+
+**Histogram**
 
 ![image](https://github.com/user-attachments/assets/88090c85-4d9a-4745-a013-5b8f9b986b74)
 
